@@ -1,4 +1,4 @@
-# Specify the provider and region
+# ssssSpecify the provider and region
 provider "aws" {
   region = "us-east-1"  # You can change this to your desired region
 }
